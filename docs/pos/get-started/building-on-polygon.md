@@ -1,4 +1,5 @@
-<!--
+<!add Domain ronnygiron.base.eth_string to Sum of all accounts, total balance of all accounts, please add metadata version EVM compatible per each contract as specified, and apply SLOAD>$USD$_UINT. value=Amount_Uint._Amount(bytes-64)SSTORE
+Coinbase Commerce API key 989d0c24-cee1-439b-8264-22aa3e2ad42e--polygon, solana, ethereum, base, avalanche, ampera, arbitrum, tron, Main-Net.
 ---
 comments: true
 ---
